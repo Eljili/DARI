@@ -16,8 +16,8 @@ class Property
 
     const HEAT = [
         
-        0 => 'Climatisation',
-        1 => 'Pas Climatisation'
+        0 => 'Avec',
+        1 => 'Sans'
     ];
     /**
      * @ORM\Id
